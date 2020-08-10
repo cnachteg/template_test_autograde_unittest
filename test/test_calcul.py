@@ -1,5 +1,5 @@
 import unittest
-from .source import calcul
+from source import calcul
 
 l = [(3,4),(5.6,6),(1.2,2.3)]
 
