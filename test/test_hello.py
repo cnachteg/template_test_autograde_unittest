@@ -1,5 +1,6 @@
 import unittest
-import hello
+from source import hello
+
 
 class TestHello(unittest.TestCase):
     def test_string(self):
